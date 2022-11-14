@@ -4,8 +4,8 @@ from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from .authentication import generate_access_token, JWTAuthentication
-from .serializers import UserSerializers
-from .models import User
+from .serializers import UserSerializers, PermissiomSerializer
+from .models import User, Permission
 
 
 @api_view(['POST'])
@@ -68,7 +68,13 @@ class AuthenticatedUser(APIView):
 
 
 
-@api_view(['GET'])
-def users(request):
-    serializer = UserSerializers(User.objects.all(), many=True)
-    return Response(serializer)
+class PermissionsAPIView(APIView):
+    authentication_classes = [JWTAuthentication]
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        serializer = PermissiomSerializer(Permission.objects.all())
+
+        return Response({
+            'data':serializer.data
+        })
