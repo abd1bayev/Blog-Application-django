@@ -1,0 +1,1075 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-02-18T12:20:21.005Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Dolzarbligini yo‘qotmaydigan mavzu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-02-18T13:09:58.620Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Dolzarbligini yo‘qotmaydigan mavzu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-02-18T13:33:30.630Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Dolzarbligini yo‘qotmaydigan mavzu",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-02-18T13:35:13.126Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Dolzarbligini yo‘qotmaydigan mavzu 2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-02-18T13:37:03.688Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Bu yoshlar vaqtini bekorga sarflab",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-02-20T09:45:25.787Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "adwdad",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-02-20T09:45:44.082Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "adwdad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-02-20T09:46:09.582Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "adwdad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-02-20T09:46:14.619Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Dolzarbligini yo‘qotmaydigan mavzu 2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-02-20T09:46:29.514Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Bu yoshlar vaqtini bekorga sarflab",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-02-20T13:30:51.039Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "add",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-02-21T05:51:04.214Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Jasur Abdibayev",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"Dolzarbligini yo\\u2018qotmaydigan mavzu tagged with Jasur Abdibayev\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-02-21T05:51:12.209Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Dolzarbligini yo‘qotmaydigan mavzu",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-02-21T06:12:33.857Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Bu yoshlar vaqtini bekorga sarflab",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-02-21T06:13:34.669Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Bu yoshlar vaqtini bekorga sarflab",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-02-21T06:36:28.900Z",
+    "user": 1,
+    "content_type": 15,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add dashboard stats",
+    "content_type": 9,
+    "codename": "add_dashboardstats"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change dashboard stats",
+    "content_type": 9,
+    "codename": "change_dashboardstats"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete dashboard stats",
+    "content_type": 9,
+    "codename": "delete_dashboardstats"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view dashboard stats",
+    "content_type": 9,
+    "codename": "view_dashboardstats"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add dashboard stats criteria",
+    "content_type": 10,
+    "codename": "add_dashboardstatscriteria"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change dashboard stats criteria",
+    "content_type": 10,
+    "codename": "change_dashboardstatscriteria"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete dashboard stats criteria",
+    "content_type": 10,
+    "codename": "delete_dashboardstatscriteria"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view dashboard stats criteria",
+    "content_type": 10,
+    "codename": "view_dashboardstatscriteria"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add criteria to stats m2m",
+    "content_type": 11,
+    "codename": "add_criteriatostatsm2m"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change criteria to stats m2m",
+    "content_type": 11,
+    "codename": "change_criteriatostatsm2m"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete criteria to stats m2m",
+    "content_type": 11,
+    "codename": "delete_criteriatostatsm2m"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view criteria to stats m2m",
+    "content_type": 11,
+    "codename": "view_criteriatostatsm2m"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add cached value",
+    "content_type": 12,
+    "codename": "add_cachedvalue"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change cached value",
+    "content_type": 12,
+    "codename": "change_cachedvalue"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete cached value",
+    "content_type": 12,
+    "codename": "delete_cachedvalue"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view cached value",
+    "content_type": 12,
+    "codename": "view_cachedvalue"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 13,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 13,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 13,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 13,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 53,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 14,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 54,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 14,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 55,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 14,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 56,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 14,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 57,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 15,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 58,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 15,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 59,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 15,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 60,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 15,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$lG6ImXWNsgYwbyWibYEWjS$Z1BAksnBGPM3yjF7l+u9XeQCERF2C+nb2yfMOLpmSo4=",
+    "last_login": "2023-02-20T09:43:02.973Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-02-18T12:14:52.529Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "admin_tools_stats",
+    "model": "dashboardstats"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "admin_tools_stats",
+    "model": "dashboardstatscriteria"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "admin_tools_stats",
+    "model": "criteriatostatsm2m"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "admin_tools_stats",
+    "model": "cachedvalue"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 14,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 15,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4rkfyj558evf4qkfqwiw8apsv8p33y1p",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlkbf7BNSZ8zWOvdDQ6gRIqTCnF3iJQC2jcz76UybmvNW5Mlj6wuqlOn360gPWTaAd9xus2a5mldxqJ3RR-06X5meV4P9--gYqvfmqyzCaU4CBQGazxE58giIbvURV-Ah0Lg-GyMCRwicLBiwAtbSFHU-wPcgjeV:1pTM84:_4O334tvskpBA5CF8ZaJHEXOg8f9DH28O0ESAryLCus",
+    "expire_date": "2023-03-04T12:15:48.122Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fhc65qgygz312oftpk53l7yi7e5rcoi0",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlkbf7BNSZ8zWOvdDQ6gRIqTCnF3iJQC2jcz76UybmvNW5Mlj6wuqlOn360gPWTaAd9xus2a5mldxqJ3RR-06X5meV4P9--gYqvfmqyzCaU4CBQGazxE58giIbvURV-Ah0Lg-GyMCRwicLBiwAtbSFHU-wPcgjeV:1pU2hK:ERintGktnEMkBuOUS5lyibMxLzVODaltb091_qDOtMM",
+    "expire_date": "2023-03-06T09:43:02.975Z"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "Jasur Abdibayev",
+    "slug": "jasur-abdibayev"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "tags",
+    "slug": "tags"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Dolzarbligini yo‘qotmaydigan mavzu",
+    "slug": "dolzarbligini-yoqotmaydigan-mavzu",
+    "author": 1,
+    "body": "Insoniyat paydo bo‘libdiki, eng dolzarb, eng mashaqqatli va eng qiyin vazifa – yoshlar masalasi bo‘lib kelgan. Mutafakkir va allomalar, ziyolilar jamiyatning rivoji, tinchligi va xotirjamligini yoshlar tarbiyasi bilan bog‘lagani bejiz emas. Tarbiya masalasi qadriyat, an'ana bilan bog‘liqlikda hal etishga harakat qilingan bo‘lsa, o‘sha joyda rivojlanish bo‘lgan. Yoshlar tarbiyasiga e'tiborsizlik bo‘lgan joyda inqiroz va o‘pirilishlar sodir bo‘lgan.",
+    "publish": "2023-02-18T12:17:34Z",
+    "created": "2023-02-18T12:20:21.004Z",
+    "updated": "2023-02-21T05:51:12.207Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Dolzarbligini yo‘qotmaydigan mavzu 2",
+    "slug": "dolzarbligini-yoqotmaydigan-mavzu-2",
+    "author": 1,
+    "body": "Yaqinda ayni shu yoshlar tarbiyasiga doir bir mavzuda turli soha mutaxassislari bilan suhbatlashdim. Siyosatshunos Ravshan Baykulovning aytishicha, fan va texnika jadal rivojlanayotgan hozirgi sharoitda, aksari yoshlar oldida turli muammolarning paydo bo‘lishi, birinchi navbatda, ularning dunyoqarashi tamomila o‘zgarganida.",
+    "publish": "2023-02-18T13:09:25Z",
+    "created": "2023-02-18T13:09:58.619Z",
+    "updated": "2023-02-20T09:46:14.618Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Bu yoshlar vaqtini bekorga sarflab",
+    "slug": "bu-yoshlar-vaqtini-bekorga-sarflab",
+    "author": 1,
+    "body": "Bu yoshlar vaqtini bekorga sarflab, kunlarini ijtimoiy tarmoqlarda o‘tkazmoqda, — deya davom etadi siyosatshunos. —Yer yuzidagi aholining 20 foizini yoshlar tashkil qiladi. Afsuski, millionlab yoshlar maktab nima ekanini umuman bilmaydi. Ya'ni, ular, mutlaqo savodsiz. Yana shuni ham aytish kerakki, kichik muammolar o‘z-o‘zidan yiriklarini keltirib chiqaradi. Dunyoning ko‘plab mamlakatlarida yoshlar orasida erta turmush qurish oddiy holga aylandi. Erta qurilgan yosh oilalarda arzimas, kichik-kichik muammolar paydo bo‘ladi. Bu muammolar asta-sekin kattalashib boraveradi. O‘zingiz o‘ylab ko‘ring, hali oila atalmish muqaddas dargohning nima ekanini to‘liq anglab yetmagan, ro‘zg‘or qurishga mutlaqo tayyor bo‘lmagan bu yoshlarning turmush qurishiga nima sabab bo‘lgan? Bunga ota-onalarining xohishi yoki allaqanday o‘tkinchi bir havas bilan, degan javobni hech ikkilanmasdan aytishim mumkin. Masalan, ayrim Sharq mamlakatlarini oling, yoshlar ota-onalarining xohishi va qandaydir o‘ylab topilgan udumlarga ko‘ra, erta turmush quradi. G‘arbda aytib o‘tganimdek, o‘tkinchi bir havas orqali oilalar bunyod bo‘lyapti. Xo‘sh, keyin nima bo‘ladi? Bu oilalarda aksariyat hollarda nosog‘lom farzandlar dunyoga kelishi, ro‘zg‘orda uchraydigan turli noo‘rin gap-so‘zlar xatti-harakatlar oilalarning barham topishiga, ya'ni oilaviy ajrim bilan nihoyasiga yetadi.",
+    "publish": "2023-02-18T13:36:31Z",
+    "created": "2023-02-18T13:37:03.687Z",
+    "updated": "2023-02-21T06:13:34.665Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "adwdad",
+    "slug": "adwdad",
+    "author": 1,
+    "body": "adawdawdaw",
+    "publish": "2023-02-20T09:45:15Z",
+    "created": "2023-02-20T09:45:25.786Z",
+    "updated": "2023-02-20T09:46:09.581Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 1,
+    "name": "Jasur Abdibayev",
+    "email": "adsafsgerwfaeg@gmail.com",
+    "body": "sAADWADAWDWADZCadwdawdawdad",
+    "created": "2023-02-20T10:09:32.147Z",
+    "updated": "2023-02-20T10:09:32.147Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 1,
+    "name": "Jasur Abdibayev",
+    "email": "adsafsgerwfaeg@gmail.com",
+    "body": "sAADWADAWDWADZCadwdawdawdad",
+    "created": "2023-02-20T10:09:38.615Z",
+    "updated": "2023-02-20T10:09:38.615Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 1,
+    "name": "Hushnud",
+    "email": "adsafsgerwfaeg@gmail.com",
+    "body": "Ajoyib",
+    "created": "2023-02-20T10:09:52.210Z",
+    "updated": "2023-02-20T10:09:52.210Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 4,
+    "name": "Hushnud",
+    "email": "admin@gmail.com",
+    "body": "dawadaw",
+    "created": "2023-02-20T10:10:46.666Z",
+    "updated": "2023-02-20T10:10:46.666Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 4,
+    "name": "Jasur Abdibayev",
+    "email": "adsafsgerwfaeg@gmail.com",
+    "body": "Yoqmadi",
+    "created": "2023-02-20T10:13:49.344Z",
+    "updated": "2023-02-20T10:13:49.344Z",
+    "active": true
+  }
+}
+]
